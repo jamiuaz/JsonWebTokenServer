@@ -1,0 +1,7 @@
+﻿set up 2 project 
+1. JsonWebTokenServer: web api .net 4.6 project
+	"System.IdentityModel.Tokens"
+    "System.IdentityModel.Tokens.Jwt"
+
+2. SecuredWebApplication: web MVC application .net 4.6 project
+
